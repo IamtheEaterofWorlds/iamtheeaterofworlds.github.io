@@ -12,4 +12,10 @@ p
   font-size: 50px;
   text-align: center;
   color: red;
-}  
+}
+
+.teeth
+{
+  position: center
+    size: 200px, 200px;
+}
